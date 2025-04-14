@@ -19,6 +19,6 @@ fn main() {
   println!("{}", hello);
   println!("{}", howdy);
   
-  howdy.push_str(" -- from Texas");
+  howdy.push_str(" From Mars");
   println!("{}", howdy);
 }
